@@ -4,7 +4,7 @@
 
 const fetchQuestionData = () => {
     return $.ajax({
-        url: "data.json", 
+        url: "public/data.json", 
         success: (res) => res
     })
 }
