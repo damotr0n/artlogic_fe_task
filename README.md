@@ -6,6 +6,9 @@ Run the following commands to view this project:
 - `npm install`
 - `npm start` 
 
+Or view online
+- [damotr0n.github.io/artlogic_fe_task](https://damotr0n.github.io/artlogic_fe_task/)
+
 ## Some notes
 
 - The background image is very large, it would be best to optimize it in some way for different device sizes.
